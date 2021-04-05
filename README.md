@@ -1,6 +1,6 @@
 *To [Irene][2]*
 
-# Apprendre_le_fran-ais_avec_des_chansons
+# Apprendre_le_français_avec_des_chansons
 
 ## Usage
 
