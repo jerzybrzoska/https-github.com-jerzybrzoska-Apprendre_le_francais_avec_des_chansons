@@ -4,18 +4,17 @@
 
 ## Usage
 
-Open an .html file with [Github's html preview][1], e.g.
+Open an .md file with [Github's html preview][1], e.g.
 
-<https://htmlpreview.github.io/?https://github.com/jerzybrzoska/aprende_castellano_con_canciones/blob/main/laSe%C3%B1oritaAse%C3%B1orada.html>
+<https://htmlpreview.github.io/?https://github.com/jerzybrzoska/Apprendre_le_fran-ais_avec_des_chansons/blob/main/exactement.md>
 
 or just skip to the [contents](#co)
 
 ## Contents<a id=co></a>
 
-[La Señorita Aseñorada][4] - [TIKITIKLIP][2]
+[Exactement][4] - Vive La Fete
 
 
 
 [1]: https://htmlpreview.github.io/?
-[2]: https://www.youtube.com/user/Tikitikliponline/about
-[4]: https://htmlpreview.github.io/?https://github.com/jerzybrzoska/aprende_castellano_con_canciones/blob/main/laSe%C3%B1oritaAse%C3%B1orada.html
+[4]: https://htmlpreview.github.io/?https://github.com/jerzybrzoska/Apprendre_le_fran-ais_avec_des_chansons/blob/main/exactement.md
