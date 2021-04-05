@@ -1,4 +1,4 @@
-*To Irene*
+*To [Irene][2]*
 
 # Apprendre_le_fran-ais_avec_des_chansons
 
@@ -6,7 +6,7 @@
 
 Open an .md file with [Github's html preview][1], e.g.
 
-<https://htmlpreview.github.io/?https://github.com/jerzybrzoska/Apprendre_le_fran-ais_avec_des_chansons/blob/main/exactement.md>
+<https://htmlpreview.github.io/?https://github.com/jerzybrzoska/https-github.com-jerzybrzoska-Apprendre_le_francais_avec_des_chansons/blob/main/exactement.html>
 
 or just skip to the [contents](#co)
 
@@ -17,4 +17,5 @@ or just skip to the [contents](#co)
 
 
 [1]: https://htmlpreview.github.io/?
-[4]: https://htmlpreview.github.io/?https://github.com/jerzybrzoska/Apprendre_le_fran-ais_avec_des_chansons/blob/main/exactement.md
+[2]: https://supervioletas.com/sobremi/
+[4]: https://htmlpreview.github.io/?https://github.com/jerzybrzoska/https-github.com-jerzybrzoska-Apprendre_le_francais_avec_des_chansons/blob/main/exactement.html
