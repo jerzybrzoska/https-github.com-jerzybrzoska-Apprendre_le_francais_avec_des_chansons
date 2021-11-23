@@ -13,6 +13,7 @@ or just skip to the [contents](#co)
 ## Contents<a id=co></a>
 
 [Exactement][4] - Vive La Fete
+[Pendant que les champs brûlent][5] - Niagara
 
 
 #### Donations
@@ -27,3 +28,4 @@ Monero (XMR):
 [1]: https://htmlpreview.github.io/?
 [2]: https://supervioletas.com/sobremi/
 [4]: https://htmlpreview.github.io/?https://github.com/jerzybrzoska/https-github.com-jerzybrzoska-Apprendre_le_francais_avec_des_chansons/blob/main/exactement.html
+[5]: https://htmlpreview.github.io/?https://github.com/jerzybrzoska/https-github.com-jerzybrzoska-Apprendre_le_francais_avec_des_chansons/blob/main/Pendant_que_les_champs.html
